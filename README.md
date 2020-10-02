@@ -1,5 +1,5 @@
 # Capstone
-Machine learning modeling for PIMA Indians Diabetes Datset with KNN, Logistic Regression and ANN. 
+Predictive modeling for PIMA Indians Diabetes Datset with KNN, Logistic Regression and ANN. 
 The PIMA Indians diabetes dataset is one of the most popular machine
 learning quests for data scientists. It was introduced by Kaggle,
 courtesy of UCI Machine Learning Repository. The original dataset
